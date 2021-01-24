@@ -1,0 +1,15 @@
+h1, h2 {
+    color: red;
+}
+
+.headline {
+    color: blue;
+}
+
+#headline {
+    color: orange;
+}
+
+div h1 {
+    color:blueviolet;
+}
